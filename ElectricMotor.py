@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+## THIS ALL ISNT QUITE RIGHT. THE PROBLEM ITS GIVING SEAMS LIKE HORSE SHIT
+
 F = np.array([[0, 1],
               [0, 0]])
 
